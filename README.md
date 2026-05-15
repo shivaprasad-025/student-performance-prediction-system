@@ -37,4 +37,4 @@ This project predicts student performance using Machine Learning.
 - Real-time student monitoring
 
 ## 👨‍💻 Author
-Chirag BP
+Shivprasad H
